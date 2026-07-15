@@ -7,6 +7,9 @@ Users can choose a one-card, three-card, or randomly selected
 reading. Each card receives an upright or reversed orientation,
 and the application generates an overall reflective interpretation.
 
+## Live App
+https://tarot-reading-app-fhpmexyxibrn62tt6jzjde.streamlit.app/
+
 ## Features
 
 - Object-oriented Card, Deck, Reading, and TarotInterpreter classes
